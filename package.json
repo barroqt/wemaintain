@@ -1,0 +1,12 @@
+{
+  "name": "backend-test-master",
+  "version": "1.0.0",
+  "description": "The dataset provided in the `data` folder was extracted from SongKick and has a list of bands, venues, and concerts from those bands at those venues.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --experimental-json-modules app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
